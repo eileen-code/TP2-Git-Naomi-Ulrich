@@ -5,6 +5,7 @@ public class MessageA {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Message du membre A");
+		System.out.println("Deuxieme ligne de A");
 
 	}
 
